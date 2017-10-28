@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Ela Novit](https://github.com/ElaNovita)
+- Place: Mataram, Indonesia
+- Bio: Android and Frontend Developer
+- GitHub: [ElaNovita](https://github.com/ElaNovita)
